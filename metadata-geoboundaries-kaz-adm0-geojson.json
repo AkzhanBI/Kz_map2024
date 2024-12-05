@@ -1,0 +1,15 @@
+{
+    "created": "2022-01-06T14:06:06.355766",
+    "description": "GeoJSON ADM0 boundaries for Kazakhstan",
+    "format": "GeoJSON",
+    "download_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KAZ/ADM0/geoBoundaries-KAZ-ADM0.geojson",
+    "id": "d03babf4-321e-4288-ac36-b4e481affe33",
+    "last_modified": "2024-05-28T18:47:35.409456",
+    "metadata_modified": "2024-07-20T00:15:55.722137",
+    "microdata": false,
+    "dataset_id": "159564e8-ba74-4202-a36a-77f3302218f8",
+    "resource_type": "api",
+    "name": "geoBoundaries-KAZ-ADM0.geojson",
+    "mimetype": null,
+    "size": "0.0B"
+}
